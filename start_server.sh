@@ -1,0 +1,1 @@
+./rabbitmq_config.sh & rabbitmq-server 
